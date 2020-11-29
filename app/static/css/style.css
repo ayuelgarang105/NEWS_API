@@ -5,6 +5,7 @@
 .container,.title{
     font-family: 'Merienda', cursive;
     overflow-x: hidden;
+    color: #000;
 }
 
 .tech{
