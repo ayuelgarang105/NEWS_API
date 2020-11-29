@@ -4,7 +4,7 @@
 
 # Description
 
-This is an application that dispays a list different news sources from around the world.the user can click on the view the articles to see more articles available on the related topic.
+This is an application that dispays a list different news sources from around the world.the user can click on the view the articles to see more articles available on the related topic..
 
 ## User Stories
 The user would like to.... :
@@ -26,7 +26,7 @@ The user would like to.... :
 
 * [Python3.8](https://docs.python.org/3/)
 * [FLAsk]
-* [BOOTSTRAP]
+* [BOOTSTRAP4]
 * [HTML]
 * [CSS]
 
