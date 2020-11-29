@@ -25,7 +25,7 @@ The user would like to.... :
 ## Built With
 
 * [Python3.8](https://docs.python.org/3/)
-* [FLACK]
+* [FLAsk]
 * [BOOTSTRAP]
 * [HTML]
 * [CSS]
