@@ -1,0 +1,2 @@
+NEWS_API_KEY ='c8216f69468444c3bc4df92fdf183f8c'
+SECRET_KEY ='akaka
