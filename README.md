@@ -4,7 +4,7 @@
 
 # Description
 
-This is an application that displays a list different news sources from around the world.the user can click on the view the articles to see more articles available on the related topic..
+This is an application that displays a list different news sources from around the world.the user can click on the check the articles to see more articles available on the related topic..
 
 ## User Stories
 The user would like to.... :
