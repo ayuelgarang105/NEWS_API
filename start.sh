@@ -1,8 +1,6 @@
-export NEWS_API_KEY='23d7c4a341f6493a9e3cf5fd18b9a091'
-export SECRET_KEY='akaka'
+export NEWS_API_KEY='ced9001d91e24ec7a7c30f179ed8189e'
+export SECRET_KEY='gabi'
 
- python3.6 manage.py server
-
- 
+python3.8 manage.py server
 
 

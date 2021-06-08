@@ -1,41 +1,44 @@
-# News-App.com
+ ### News App
 
-# Author: [Benard Akaka](https://github.com/Benardakaka)
+## Author
 
-# Description
+Ayuel Garang
 
-This is an application that displays a list different news sources from around the world.the user can click on the check the articles to see more articles available on the related topic..
+## Description
 
-## User Stories
-The user would like to.... :
-* See various news sources and select the ones they prefer  to view.
-* View all news sources from the source they selected.
-* See Image description and time the news article was created. 
-* Click on an article and read it fully from the news source
+This is an application whereby it contains current issues i.e news to help those who have less time in watching TV to catch up. The website contains different articles from different authors. It gets its data from the [NEWS API](https://newsapi.org/)
+## Live Demo
 
 
-## Behaviour Driven Development
+## User Story
 
-| Behaviour | Input | Output |
-| :---------------- | :---------------: | ------------------: |
-|To display various news sources| Click the View Articles button|Redirected to a page with a list of articles from the source |
-|Display the articles for the news source selected| Click Read Article| Redirected to the news source's site to read the entire article|
+1. A user would see various news sources on the homepage of the application.
+2. A user would also be able to select a news source and see all news articles from the selected news source in the application.
+4. A click on an article and read the full article on the source website.
 
+## Setup Installation
+* Clone the repository
+ ```https://github.com/ayuelgarang105/News-App```
 
-## Built With
+* cd Natalie-News
 
-* [Python3.8](https://docs.python.org/3/)
-* [FLAsk]
-* [BOOTSTRAP4]
-* [HTML]
-* [CSS]
+* To test the application
+ ```python3.6 manage.py test```
 
+* To run the application, in your terminal:
 
-## Support and contact details
- Incase you come across errors, have questions, ideas ,concerns, or want to contribute to the application, feel free to reach me at :benardakaka48@gmail.com
+        $ chmod +x start.sh
+        $ ./start.sh
 
+## Technology used
+
+* Python3.8
+* Flask
+* Heroku
+
+## Contact Information 
+
+If you have any question or contributions, please email me at [ayuelgarang105@gmail.com]
 
 ### License
-
-* LICENSED UNDER  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license/MIT)
-* Copyright &copy;[Benard Akaka] 
+  [MIT] Copyright (c) 2021 Ayuel Gabriel
